@@ -13,3 +13,4 @@
     e. debug: opcional
     f. tam: aumenta o tamanho do polígono se o valor for positivo.
 - [ ] Usando **Exclusivamente** O modulo do **DrawPoligono**, e o **algoritmo do triângulo equilátero**, elabore a seguinte figura:
+<img src="https://github.com/FtxDante/computacao-grafica-vp2-uni7/blob/master/references/img/exercicio-resultado-esperado.png">
